@@ -41,6 +41,8 @@
      <Compile Include="Assets\Enemy\EnemyHealth.cs" />
      <Compile Include="Assets\Enemy\EnemyMover.cs" />
      <Compile Include="Assets\ObjectPool.cs" />
+     <Compile Include="Assets\Pathfinding\GridManager.cs" />
+     <Compile Include="Assets\Pathfinding\Node.cs" />
      <Compile Include="Assets\Tiles\CoordinateLabeler.cs" />
      <Compile Include="Assets\Tiles\Waypoint.cs" />
      <Compile Include="Assets\Tower\Tower.cs" />
